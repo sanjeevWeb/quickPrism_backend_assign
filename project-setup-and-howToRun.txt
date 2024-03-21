@@ -1,3 +1,4 @@
+note -> frontenf folder, as time is less
 project/assignment description -> i have used node js, express js and MySql database with 
 	sequelize ORM to ease and make development process fast.All the functionality mentioned
 	in the assignment is working good and is complete.
